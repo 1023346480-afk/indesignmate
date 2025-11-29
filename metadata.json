@@ -1,0 +1,5 @@
+{
+  "name": "DesignMate - AI Layout Studio",
+  "description": "A web-based layout design tool inspired by InDesign. Features a canvas for arranging text, shapes, and images, powered by Google Gemini for generating copywriting and stock imagery directly within your layout.",
+  "requestFramePermissions": []
+}
